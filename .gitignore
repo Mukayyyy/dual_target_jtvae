@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+.DS_Store
+
+*.pkl
+
+/RUNS
+
+/saved_model
